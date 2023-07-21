@@ -1,5 +1,5 @@
 ## Snowflake Integration with AWS, Database Creation and Querying the Data
-The following Notebook contain all the steps done on Snowflake including:
+The snowflake_aws_s3.ipynb Notebook contain all the steps done on Snowflake including:
 - Creating the Snowflake database
 - Setting up the integration with AWS S3 where the data was stored
 - Importing the data from the CSV files in the AWS S3 bucket
