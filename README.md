@@ -2,7 +2,7 @@
 Analyzing patients data with Snowflake SQL to investigate the impact of patient’s PHQ assessment on drug prescription and frequency
 
 <div align="center">
-    <img src="images/Whole-Health portfolio featured image.png" alt="Whole Health Logo" style="width: 400px; height: 400px;">
+    <img src="images/Whole-Health portfolio featured image.png" alt="Whole Health Logo" style="width: 800px; height: 800px;">
 </div>
 
 
