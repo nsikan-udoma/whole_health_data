@@ -4,7 +4,7 @@ Analyzing patients data with Snowflake SQL to investigate the impact of patientâ
 <div align="center">
     <img src="images/Whole-Health portfolio featured image.png" alt="Whole Health Logo" style="width: 800px; height: 800px;">
 </div>
-
+---
 
 ## Introduction
 
@@ -19,7 +19,7 @@ This short project was completed as part of a job interview assessment for a men
 
 Whole Health leverages AI, Data Science and Clinical Data to provide affordable, high-quality mental health care to patients, all from the comfort and privacy of their homes.
 Senior executives of Whole Health engaged my services to help them analyzing patients data in their database, to investigate the impact of patientâ€™s mental health PHQ assessment on drug prescription and frequency.
-
+---
 
 <br>
 
@@ -29,6 +29,7 @@ The provided data are synthetic and were simulated from patients in the Whole-He
 - Patients: each row represents a unique patient, along with their sex.
 - Scores: each row represents a unique instance of a patient completing the [Patient Health Questionnaire (PHQ-9)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/). Scores range from 0-27, with higher scores indicating greater severity of depression symptoms.
 - Drugs: each row represents a unique prescription written by a clinician for a single patient.
+---
 
 <br>
 
@@ -39,6 +40,7 @@ The provided data are synthetic and were simulated from patients in the Whole-He
 - Facts/Stats -- report the number of patients for each question (a single number is sufficient):
     - How many patients were prescribed a drug before their first PHQ assessment?
     - How many female patients were assessed for PHQ score at least twice after the first time they were prescribed drug H?
+---
 
 <br>
 
@@ -52,13 +54,15 @@ The following Notebook contain all the steps done on Snowflake including:
 
 [Notebook with Snowflake Steps](https://nbviewer.org/github/nsikan-udoma/whole_health_data/blob/main/Snowflake/snowflake_aws_s3.ipynb)
 
+---
+
 <br>
 
 ### Analysis & Findings
 The following comprehensive report was provided to the company's executives.
 [Google Sheets Presentation](https://docs.google.com/presentation/d/1sTgQtUvlniZJQ8PllFqLbHrqv0oWYx1s/edit?usp=sharing&ouid=114635892330312242035&rtpof=true&sd=true)
 
-------------------------
+---
 
 <br>
 
