@@ -53,4 +53,11 @@ The following Notebook contain all the steps done on Snowflake including:
 [Notebook with Snowflake Steps](https://nbviewer.org/github/nsikan-udoma/whole_health_data/blob/main/Snowflake/snowflake_aws_s3.ipynb)
 
 
+### Analysis & Findings
+The following comprehensive report was provided to the company's executives.
+[Google Sheets Presentation](https://docs.google.com/presentation/d/1sTgQtUvlniZJQ8PllFqLbHrqv0oWYx1s/edit?usp=sharing&ouid=114635892330312242035&rtpof=true&sd=true)
 
+------------------------
+
+
+Check out my [data analysis portfolio](https://bit.ly/nudoma_portfolio) to see some other cool SQL, Python, Tableau or Excel projects 🚀
