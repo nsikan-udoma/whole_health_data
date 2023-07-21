@@ -1,6 +1,10 @@
 # Exploratory Data Analysis Project with AWS S3 + Snowflake SQL
 Analyzing patients data with Snowflake SQL to investigate the impact of patient’s PHQ assessment on drug prescription and frequency
 
+<div align="center">
+    <img src="images/Whole-Health portfolio featured image.png" alt="Whole Health Logo" style="width: 400px; height: 400px;">
+</div>
+
 
 ## Introduction
 
@@ -9,7 +13,7 @@ This short project was completed as part of a job interview assessment for a men
 <br>
 
 <div align="center">
-    <img src="attachment:Whole%20Health%20Company%20Logo.png" alt="Whole Health Logo" style="width: 300px; height: 300px;">
+    <img src="images/Whole Health Company Logo.png" alt="Whole Health Logo" style="width: 300px; height: 300px;">
 </div>
 
 
