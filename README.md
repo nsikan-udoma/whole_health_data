@@ -62,4 +62,4 @@ The following comprehensive report was provided to the company's executives.
 
 <br>
 
-Check out my [data analysis portfolio](https://bit.ly/nudoma_portfolio) to see some other cool SQL, Python, Tableau or Excel projects 🚀
+If you enjoyed this project, check out my [data analysis portfolio](https://bit.ly/nudoma_portfolio) to see some other cool SQL, Python, Tableau or Excel projects 🚀
