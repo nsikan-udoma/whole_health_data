@@ -19,6 +19,7 @@ This short project was completed as part of a job interview assessment for a men
 
 Whole Health leverages AI, Data Science and Clinical Data to provide affordable, high-quality mental health care to patients, all from the comfort and privacy of their homes.
 Senior executives of Whole Health engaged my services to help them analyzing patients data in their database, to investigate the impact of patient’s mental health PHQ assessment on drug prescription and frequency.
+
 ---
 
 <br>
