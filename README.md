@@ -26,9 +26,9 @@ Senior executives of Whole Health engaged my services to help them analyzing pat
 
 ### Datasets
 The provided data are synthetic and were simulated from patients in the Whole-Health network.
-Patients: each row represents a unique patient, along with their sex.
-Scores: each row represents a unique instance of a patient completing the Patient Health Questionnaire (PHQ-9). Scores range from 0-27, with higher scores indicating greater severity of depression symptoms.
-Drugs: each row represents a unique prescription written by a clinician for a single patient.
+- Patients: each row represents a unique patient, along with their sex.
+- Scores: each row represents a unique instance of a patient completing the [Patient Health Questionnaire (PHQ-9)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/). Scores range from 0-27, with higher scores indicating greater severity of depression symptoms.
+- Drugs: each row represents a unique prescription written by a clinician for a single patient.
 
 <br>
 
