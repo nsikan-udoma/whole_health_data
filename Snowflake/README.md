@@ -6,6 +6,6 @@ The snowflake_aws_s3.ipynb Notebook contain all the steps done on Snowflake incl
 - Creating the database tables and storing the data
 - Querying the data for Exploratory Data Analysis (EDA), and to answer the required business questions
 
-[Notebook with Snowflake Steps](https://nbviewer.org/github/nsikan-udoma/whole_health_data/blob/d62ccf973ce4f5e142ccc837b13f002f7ecf8a9c/Snowflake/snowflake_aws_s3.ipynb)
+[Notebook with Snowflake Steps](https://nbviewer.org/github/nsikan-udoma/whole_health_data/blob/main/Snowflake/snowflake_aws_s3.ipynb)
 
 ---
