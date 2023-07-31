@@ -53,7 +53,7 @@ The following Notebook contain all the steps done on Snowflake including:
 - Creating the database tables and storing the data
 - Querying the data for Exploratory Data Analysis (EDA), and to answer the required business questions
 
-[Notebook with Snowflake Steps](https://nbviewer.org/github/nsikan-udoma/whole_health_data/blob/main/Snowflake/snowflake_aws_s3.ipynb?flush_cache=true)
+[Notebook with Snowflake Steps](https://nbviewer.org/github/nsikan-udoma/whole_health_data/blob/e114f330b65a141311e1faec98baacb182d214f2/Snowflake/snowflake_aws_s3.ipynb)
 
 
 ---
